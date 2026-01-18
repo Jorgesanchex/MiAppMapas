@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mi App Mapas</string>
+    <string name="menu_lugar1">Plaza Principal</string>
+    <string name="menu_lugar2">Parque Central</string>
+    <string name="menu_lugar3">Centro Comercial</string>
+    <string name="menu_lugar4">Estadio Local</string>
+    <string name="api_key">TU_GOOGLE_MAPS_API_KEY</string>
+</resources>
